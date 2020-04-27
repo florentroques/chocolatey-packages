@@ -1,7 +1,17 @@
 # Chocolatey Packages
 
+~~~
+
+TODO
+integrate posh-docker
+https://github.com/samneirinck/posh-docker
+
 [![](https://ci.appveyor.com/api/projects/status/github/florentroques/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/florentroques/chocolatey-packages)
 [Update status](https://gist.github.com/florentroques/c84b8249e2f860e4fb351b9c85d19f4c)
+
+When done make section available
+
+~~~
 
 ## Chocolatey Packages Template
 
